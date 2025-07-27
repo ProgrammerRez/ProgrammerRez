@@ -28,16 +28,20 @@ Here are some of the technologies I'm proficient in and currently learning:
 
 ### 🔥 My GitHub Stats & Streaks
 
-Here's a look at my GitHub activity and contribution streak.
+These statistics, contributions, and streaks are updated automatically to show your live data.
 
 <p align="center">
   <a href="https://github.com/ProgrammerRez">
-    <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerRez&show_icons=true&theme=radical" alt="ProgrammerRez's GitHub Stats" />
+    <!-- This image shows your live GitHub stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerRez&show_icons=true&theme=radical&count_private=true" alt="ProgrammerRez's GitHub Stats" />
+    
+    <!-- This image shows your live contribution streak -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerRez&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
+  <!-- This image shows your most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerRez&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 

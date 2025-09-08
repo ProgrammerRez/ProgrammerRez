@@ -19,26 +19,31 @@ I firmly believe that giving 100% effort consistently can place anyone in the to
 
 ### 💻 Technical Skills
 
-I work with a variety of technologies and frameworks, including:
+I am proficient in a wide range of tools, frameworks, and technologies, including:
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api?title=Tech+Stack&theme=dark&align=center&q=python,tensorflow,pytorch,scikitlearn,pandas,numpy,fastapi,flask,docker,git" />
-</p>
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ProgrammerRez">
-    <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerRez&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerRez&theme=dark" alt="GitHub Streak" />
-  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerRez&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  I also have experience with:
 </p>
+
+<ul>
+  <li>🔹 RAG (Retrieval-Augmented Generation) pipelines</li>
+  <li>🔹 Agentic AI workflows</li>
+  <li>🔹 ML & DL model deployment to Hugging Face Spaces</li>
+  <li>🔹 Building APIs for AI models</li>
+</ul>
 
 ---
 

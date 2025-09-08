@@ -1,7 +1,7 @@
 # Hello, I'm @ProgrammerRez 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=AI+Python+Developer;Machine+Learning+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=565&lines=AI+Python+Developer;Machine+Learning+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
 I am a dedicated Python developer with a strong focus on Artificial Intelligence and Machine Learning. I enjoy building intelligent applications and continuously exploring the latest advancements in AI. My goal is to leverage my skills to deliver practical, real-world solutions.
